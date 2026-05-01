@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/anhhao247/elearning-be.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/anhhao247/elearning-fe.git
+[submodule "rag-chatbot"]
+	path = rag-chatbot
+	url = https://github.com/anhhao247/tutor-agent.git
