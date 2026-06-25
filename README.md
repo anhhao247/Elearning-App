@@ -202,7 +202,7 @@ The relational schema coordinates students, instructors, courses, quiz answers,.
 
 Review screenshot placeholders showing student features, chatbots, and dashboards below.
 
-### 👨‍🎓 Student UI (Giao diện học viên)
+### 👨‍🎓 Student UI
 *Visualizes course catalog search, enrollment, student notes, and learning content panels.*
 
 | | |
@@ -218,7 +218,7 @@ Review screenshot placeholders showing student features, chatbots, and dashboard
 | <img src="https://github.com/user-attachments/assets/d40e6d92-e157-4331-ba6d-f59109b2172c" width="400" /> | <img src="https://github.com/user-attachments/assets/5ca16a98-2593-428a-bec6-e4626d578967" width="400" /> |
 | <img src="https://github.com/user-attachments/assets/58d5f65a-0b20-4900-a9a9-ca1ae1afdbda" width="400" /> | |
 
-### 👩‍🏫 Instructor Dashboard (Dashboard Giảng viên)
+### 👩‍🏫 Instructor Dashboard 
 *Syllabus templates builder, revenue tracking diagrams, and quiz metrics panel.*
 
 | | |
@@ -226,7 +226,7 @@ Review screenshot placeholders showing student features, chatbots, and dashboard
 | <img src="https://github.com/user-attachments/assets/09e3f9ef-35fb-45e9-bd05-fdeecc282d24" width="400" /> | <img src="https://github.com/user-attachments/assets/e5694276-c303-4115-b026-c69a9794fabd" width="400" /> |
 | <img src="https://github.com/user-attachments/assets/82d729f1-4cd2-4b43-be56-a696e92b7a61" width="400" /> | |
 
-### 🎯 Admin Dashboard (Dashboard Admin)
+### 🎯 Admin Dashboard
 
 <img src="https://github.com/user-attachments/assets/ba74e686-d9d8-46f2-aeeb-242c994b57f6" width="800" />
 
